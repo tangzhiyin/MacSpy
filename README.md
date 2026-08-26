@@ -4,6 +4,8 @@ MacSpy is a native macOS accessibility inspector inspired by the system-object
 inspection workflow of Spy++. It provides a Mac-specific view of processes,
 threads, windows, accessibility elements, and public Accessibility events.
 
+[Visit the MacSpy website](https://tangzhiyin.github.io/MacSpy/)
+
 ## Features
 
 - Desktop-rooted system window browser
